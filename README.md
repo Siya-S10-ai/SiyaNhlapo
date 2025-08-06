@@ -11,5 +11,6 @@ I recently completed a certificate on [Intro to OPENAI API](https://www.codecade
 My next mission is DevOps. 🚀
 
 **Let's connect!**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/siyabonga-nhlapo-06584b248/)
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://x.com/Siya_10_)
