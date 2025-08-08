@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm<a href="https://sensational-frangollo-2334c4.netlify.app"> Siya </a>, a software engineer student based in South Africa.
+I'm<a href="https://sensational-frangollo-2334c4.netlify.app" target="_blank"> Siya </a>, a software engineer student based in South Africa.
 
 - 🌵 I'm currently enrolled into three courses [@CodeAcademy](https://www.codecademy.com/career-center). [Python3](https://www.codecademy.com/enrolled/courses/learn-python-3), [Java](https://www.codecademy.com/enrolled/courses/learn-java), and on a [Full-Stack Engineer](https://www.codecademy.com/career-journey/full-stack-engineer)Career Path.
 - 🤖 I am fascinated by how technology can impact the world around us. Building projects that bring value to society and users is a long-standing passion that I carry with me wherever I go.
